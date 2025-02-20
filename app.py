@@ -41,3 +41,7 @@ if st.button("Predict"):
         st.error("You have Diabetes")
     else:
         st.success("You don't have Diabetes")
+with col1:
+    accuracy = st.button("Check Accuracy")
+    if accuracy:
+        st.info("The accuracy of the model is 78.57%")
