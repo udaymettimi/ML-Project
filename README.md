@@ -22,7 +22,7 @@ This repository contains various *Machine Learning projects, including **Diabete
 
 ## ⚡ Installation & Usage  
 ### ⿡ Clone the Repository  
-git clone https://github.com/YourUsername/ML-Projects.git  
+git clone https://github.com/udaymettimi/ML-Project.git  
 cd ML-Projects
 ⿢ Install Dependencies
 pip install -r requirements.txt
